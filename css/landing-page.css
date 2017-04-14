@@ -91,6 +91,20 @@ h6 {
     font-weight: 400;
     letter-spacing: 2px;
 }
+/*about*/
+.aboutImg {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
 
 .content-section-a {
     padding: 50px 0;
