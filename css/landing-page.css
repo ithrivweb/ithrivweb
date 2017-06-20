@@ -28,9 +28,11 @@ h6 {
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
-    color: #f8f8f8;
-    background: url(../img/banner1.jpg) no-repeat center;
+    background-image: url(../img/banner1.jpg);
+    background-attachment: fixed;    
     background-size: cover;
+    background-position: center;
+    color: #f8f8f8;
 }
 
 .intro-message {
